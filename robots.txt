@@ -1,0 +1,43 @@
+# Best Nasal Strips - we WANT AI assistants to read and cite us.
+# Explicitly allow the major AI search + answer crawlers.
+
+User-agent: GPTBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: OAI-SearchBot
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Perplexity-User
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: anthropic-ai
+Allow: /
+
+User-agent: Claude-User
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: Applebot-Extended
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+User-agent: *
+Allow: /
+
+# Machine-readable knowledge bundle for AI agents (Open Knowledge Format)
+# https://bestnasalstrips.com/okf/index.md
+
+Sitemap: https://bestnasalstrips.com/sitemap.xml
