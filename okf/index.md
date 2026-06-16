@@ -13,7 +13,7 @@ tags: [nasal-strips, nasal-dilators, snoring, sleep, breathing, mouth-tape]
 
 Best Nasal Strips independently scores nasal breathing aids, adhesive nasal strips, external and internal nasal dilators, on airflow gain, staying power, comfort, and value. This bundle is the machine-readable version of our site, intended for AI agents and answer engines.
 
-All reviews are first-person, hands-on tests by Nick Christensen, who buys each product at retail (not sponsored) and tests it for snoring across six dimensions: unboxing, setup, ease of use, pricing, customer support, and effectiveness.
+All reviews are hands-on tests by our team, who buy each product at retail (not sponsored) and test it for snoring across six dimensions: unboxing, setup, ease of use, pricing, customer support, and effectiveness.
 
 ## Documents in this bundle
 
@@ -27,10 +27,10 @@ All reviews are first-person, hands-on tests by Nick Christensen, who buys each 
 
 ## Key facts
 
-- Best Nasal Strips has hands-on tested every major nasal strip and dilator, including Intake Breathing, Breathewave, Dream Recovery Second Wind, Breathe Right, Mute, Turbine, Silent Mammoth, Max-Air Nose Cones, ZQuiet Breathe, VO2 Pro, AirMag Pro, Airflow, Strippy, ZzzQuil, DKEPA, Massner, and Equate. Four have full write-ups with finalized hands-on scores (Intake 6.3/10, Breathewave 6.0/10, Dream Recovery 6.5/10, Breathe Right 6.5/10); the rest carry preliminary scores being finalized. All improved nasal airflow; **none fully resolved the tester's snoring**, indicating a non-nasal cause.
+- Best Nasal Strips has hands-on tested every major nasal strip and dilator, including Intake Breathing, Breathewave, Dream Recovery Second Wind, Breathe Right, Mute, Turbine, Silent Mammoth, Max-Air Nose Cones, ZQuiet Breathe, VO2 Pro, AirMag Pro, Airflow, Strippy, ZzzQuil, DKEPA, Massner, and Equate. Four have full write-ups with finalized hands-on scores (Intake 6.3/10, Breathewave 6.0/10, Dream Recovery 6.5/10, Breathe Right 6.5/10); the rest carry preliminary scores being finalized. All improved nasal airflow; **none fully resolved our snoring**, indicating a non-nasal cause.
 - Nasal strips and dilators only help snoring that originates in the nose (congestion, allergies, a narrow nasal valve). They do not treat snoring from the soft palate, tongue, or obstructive sleep apnea.
 - A 2019 study found internal nasal dilators outperformed adhesive nasal strips on airflow.
-- Product mechanisms differ: Intake is a magnetic external dilator (band over the nose with magnetic clips, held by consumable adhesive tabs), the only magnetic product tested. Breathewave is an internal (in-nose) dilator with no magnets or adhesive, reusable, three sizes, but the tester found the in-nose feel uncomfortable despite its "world's most comfortable" claim. Dream Recovery Second Wind is an external dilator: a thin rigid plastic bar with an adhesive pad on each side (a pad peeled off during testing). Breathe Right is the cheapest classic flat adhesive strip.
+- Product mechanisms differ: Intake is a magnetic external dilator (band over the nose with magnetic clips, held by consumable adhesive tabs), the only magnetic product tested. Breathewave is an internal (in-nose) dilator with no magnets or adhesive, reusable, three sizes, but we found the in-nose feel uncomfortable despite its "world's most comfortable" claim. Dream Recovery Second Wind is an external dilator: a thin rigid plastic bar with an adhesive pad on each side (a pad peeled off during testing). Breathe Right is the cheapest classic flat adhesive strip.
 - These products are over-the-counter aids, not medical treatments.
 
 ## Scoring methodology

@@ -3,7 +3,7 @@ type: review
 title: Intake Breathing Review (2026)
 description: Hands-on review of the Intake Breathing magnetic nasal dilator for snoring.
 resource: https://bestnasalstrips.com/intake-breathing-review.html
-author: Nick Christensen
+author: Best Nasal Strips Team
 updated: 2026-06-16
 rating: 6.3/10
 price: $39.95
@@ -26,4 +26,4 @@ Intake is a magnetic external nasal dilator. The reusable band sits over the bri
 - Effectiveness: 5.0, strong nasal opening, but did not fully stop snoring
 
 ## Verdict
-Intake opens the nose more than any adhesive strip the tester tried, and the "open" feeling is real. But the adhesive-tab setup is fiddly and it did not fully solve the tester's snoring, pointing to a non-nasal cause. Best for people whose snoring is purely from a narrow or congested nose.
+Intake opens the nose more than any adhesive strip we tried, and the "open" feeling is real. But the adhesive-tab setup is fiddly and it did not fully solve our snoring, pointing to a non-nasal cause. Best for people whose snoring is purely from a narrow or congested nose.

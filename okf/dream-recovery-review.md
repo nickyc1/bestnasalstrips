@@ -3,7 +3,7 @@ type: review
 title: Dream Recovery Second Wind Review (2026)
 description: Hands-on review of the Dream Recovery Second Wind band-style nasal dilator for snoring.
 resource: https://bestnasalstrips.com/dream-recovery-review.html
-author: Nick Christensen
+author: Best Nasal Strips Team
 updated: 2026-06-16
 rating: 6.5/10
 price: ~$30/month (subscription)
@@ -26,4 +26,4 @@ Despite the "Second Wind Nasal Strips" name, this is an external nasal dilator: 
 - Effectiveness: 5.0, stronger open than a strip, but did not fully stop snoring
 
 ## Verdict
-A middle ground between a flat strip and a clip-in dilator: more open and more stable than a strip, more comfortable and lower-commitment than clip-in dilators. The downside is a $30/month subscription. Like everything tested, it added airflow without fully stopping the tester's snoring. Best for people who want more than a strip but less than a clip-in dilator.
+A middle ground between a flat strip and a clip-in dilator: more open and more stable than a strip, more comfortable and lower-commitment than clip-in dilators. The downside is a $30/month subscription. Like everything tested, it added airflow without fully stopping our snoring. Best for people who want more than a strip but less than a clip-in dilator.

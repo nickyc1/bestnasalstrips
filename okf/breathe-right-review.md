@@ -3,7 +3,7 @@ type: review
 title: Breathe Right Review (2026)
 description: Hands-on review of Breathe Right Extra Strength adhesive nasal strips for snoring.
 resource: https://bestnasalstrips.com/breathe-right-review.html
-author: Nick Christensen
+author: Best Nasal Strips Team
 updated: 2026-06-16
 rating: 6.5/10
 price: ~$15/box (about $0.50 a strip)
@@ -26,4 +26,4 @@ Breathe Right Extra Strength is the original adhesive nasal strip and the catego
 - Effectiveness: 5.0, opens the nose, but did not fully stop snoring
 
 ## Verdict
-Breathe Right is the cheapest, easiest way to test whether opening your nose helps at all. The lift is real but gentler than a magnetic dilator's, the adhesive lifted when the tester moved, and like every nasal product tested it did not fully stop snoring, confirming a non-nasal cause. The right first test, not the final answer.
+Breathe Right is the cheapest, easiest way to test whether opening your nose helps at all. The lift is real but gentler than a magnetic dilator's, the adhesive lifted when our team moved, and like every nasal product tested it did not fully stop snoring, confirming a non-nasal cause. The right first test, not the final answer.
