@@ -60,10 +60,10 @@
   <div class="nav">
     <a href="/" class="brand"><span class="dot"></span>Best Nasal Strips<span class="byb">by BreatheLab</span></a>
     <nav class="navlinks">
+      <a href="#quiz">Find your fit</a>
       <a href="#reviews">Reviews</a>
       <a href="#guides">Guides</a>
       <a href="#rankings">Rankings</a>
-      <a href="/best-nasal-dilators.html">Dilators</a>
       <a href="#faq">FAQ</a>
     </nav>
   </div>
@@ -103,34 +103,87 @@
 
 </div>
 
+<!-- Find your fit quiz -->
+<section id="quiz">
+  <div class="wrap narrow">
+    <h2>Find your fit in 30 seconds</h2>
+    <p class="sub">Answer three quick questions and we'll point you to the product most likely to work for your situation.</p>
+    <div class="quiz">
+      <div class="progress"><span id="qbar"></span></div>
+
+      <div class="q active" data-q="1">
+        <div class="qnum">Question 1 of 3</div>
+        <h3>What are you mainly trying to fix?</h3>
+        <div class="opts">
+          <button class="opt" data-key="goal" data-val="snore">Snoring</button>
+          <button class="opt" data-key="goal" data-val="sleep">Breathe better while I sleep</button>
+          <button class="opt" data-key="goal" data-val="train">Training and performance</button>
+          <button class="opt" data-key="goal" data-val="congestion">Congestion and stuffiness</button>
+        </div>
+      </div>
+
+      <div class="q" data-q="2">
+        <div class="qnum">Question 2 of 3</div>
+        <h3>How do you feel about adhesive on your skin?</h3>
+        <div class="opts">
+          <button class="opt" data-key="skin" data-val="sensitive">Sensitive or oily skin, adhesive irritates me</button>
+          <button class="opt" data-key="skin" data-val="fine">Adhesive is fine</button>
+          <button class="opt" data-key="skin" data-val="nothing">I'd rather have nothing on my face</button>
+        </div>
+      </div>
+
+      <div class="q" data-q="3">
+        <div class="qnum">Question 3 of 3</div>
+        <h3>When do you want to wear it?</h3>
+        <div class="opts">
+          <button class="opt" data-key="when" data-val="night">Just at night</button>
+          <button class="opt" data-key="when" data-val="allday">All day too</button>
+          <button class="opt" data-key="when" data-val="occasional">Just occasionally</button>
+        </div>
+      </div>
+
+      <div class="result" id="qresult">
+        <div class="qnum">Our pick for you</div>
+        <h3 id="recheadline" style="margin:5px 0 8px">Here's where we'd start</h3>
+        <a class="rec" id="reclink" href="/">
+          <span class="sc" id="recscore">6.5</span>
+          <span class="body"><span class="t" id="recname">Product</span><span class="w" id="recwhy">Why</span></span>
+          <span style="color:var(--brand);font-weight:600;white-space:nowrap">Read the review →</span>
+        </a>
+        <button class="restart" id="qrestart">↺ Start over</button>
+      </div>
+    </div>
+  </div>
+</section>
+
 <!-- REVIEWS -->
 <section id="reviews">
   <div class="wrap">
     <h2>Hands-on reviews</h2>
     <p class="sub">Each one bought at retail and tested across six things: unboxing, setup, ease of use, pricing, customer support, and real effectiveness.</p>
     <div class="reviewgrid">
-      <a class="rcard" href="/intake-breathing-review.html">
+      <a class="rcard" href="/intake-breathing-review.html"><img class="thumb" src="https://cdn.shopify.com/s/files/1/1262/8823/files/Opengraph.jpg?v=1773100784" alt="Intake Breathing" loading="lazy">
         <div class="k" style="font-size:11.5px;font-weight:700;letter-spacing:.05em;text-transform:uppercase;color:var(--gold)">Magnetic dilator</div>
         <div class="t">Intake Breathing</div>
         <div class="meta">$39.95 starter kit · FSA/HSA eligible</div>
         <span class="sc" style="background:#0e8a8f">6.3 / 10</span>
         <div class="verdict-line">Strongest nasal opening, but fiddly tabs, and still didn't fully stop snoring.</div>
       </a>
-      <a class="rcard" href="/breathewave-review.html">
+      <a class="rcard" href="/breathewave-review.html"><img class="thumb" src="https://breathewave.com/cdn/shop/files/breathewave-social-seo-image-3.jpg?v=1758112689" alt="Breathewave" loading="lazy">
         <div class="k" style="font-size:11.5px;font-weight:700;letter-spacing:.05em;text-transform:uppercase;color:var(--gold)">In-nose dilator</div>
         <div class="t">Breathewave</div>
         <div class="meta">$50 starter pack · 3 sizes included</div>
         <span class="sc" style="background:#7faa3a">6.0 / 10</span>
         <div class="verdict-line">No magnets or adhesive, but the in-nose feel was uncomfortable for our testers.</div>
       </a>
-      <a class="rcard" href="/dream-recovery-review.html">
+      <a class="rcard" href="/dream-recovery-review.html"><img class="thumb" src="https://dreamrecovery.io/cdn/shop/files/3_436b5098-6337-4e8b-bb5e-9dd1df60683f-vblack.png?v=1772029046" alt="Dream Recovery Second Wind" loading="lazy">
         <div class="k" style="font-size:11.5px;font-weight:700;letter-spacing:.05em;text-transform:uppercase;color:var(--gold)">Band dilator</div>
         <div class="t">Dream Recovery</div>
         <div class="meta">~$30 / month · subscription</div>
         <span class="sc" style="background:#1f9d6b">6.5 / 10</span>
         <div class="verdict-line">Stronger open than a strip, comfortable, but a monthly subscription.</div>
       </a>
-      <a class="rcard" href="/breathe-right-review.html">
+      <a class="rcard" href="/breathe-right-review.html"><img class="thumb" src="https://www.breatheright.com/assets/img/photos/social.686bec6c.png" alt="Breathe Right" loading="lazy">
         <div class="k" style="font-size:11.5px;font-weight:700;letter-spacing:.05em;text-transform:uppercase;color:var(--gold)">Adhesive strip</div>
         <div class="t">Breathe Right</div>
         <div class="meta">≈$15 / box · the original</div>
@@ -192,6 +245,22 @@
       <a href="/intake-vs-breathe-right.html">Intake vs Breathe Right<span>Magnetic dilator vs the classic</span></a>
       <a href="/intake-vs-breathewave.html">Intake vs Breathewave<span>External magnetic vs in-nose</span></a>
       <a href="/24-7-nasal-dilator.html" style="border-color:var(--brand)">The 24/7 dilator we're building →<span>Why nothing on the market fixed our snoring</span></a>
+    </div>
+  </div>
+</section>
+
+<!-- Email capture -->
+<section>
+  <div class="wrap">
+    <div class="capture">
+      <h2>Get the 1-page nasal breathing cheat sheet</h2>
+      <p class="csub">The short version of everything we learned: which aid fits which problem, how to make any strip actually stay on, and the red flags that mean you should see a doctor instead. Free, no spam.</p>
+      <form id="capform" method="POST" action="https://formspree.io/f/REPLACE_WITH_FORM_ID">
+        <input type="email" name="email" required placeholder="you@email.com" aria-label="Email address">
+        <button type="submit" class="cta">Send me the cheat sheet</button>
+      </form>
+      <div class="msg" id="capmsg" role="status"></div>
+      <div class="fine">Reader-supported. We'll only email you useful stuff and you can unsubscribe anytime.</div>
     </div>
   </div>
 </section>
@@ -293,6 +362,75 @@
     <div style="max-width:46ch"><strong style="color:var(--ink)">Medical disclaimer.</strong> Best Nasal Strips provides general information, not medical advice. Nasal strips and dilators are over-the-counter aids and are not treatments for obstructive sleep apnea. Consult a clinician about persistent snoring or breathing problems during sleep.<br><br>© 2026 Best Nasal Strips. Reader-supported, some links may earn a commission at no cost to you.</div>
   </div>
 </footer>
+
+<script>
+(function(){
+  // ===== Find your fit quiz =====
+  var answers = {};
+  var qs = document.querySelectorAll('.quiz .q');
+  var bar = document.getElementById('qbar');
+  var result = document.getElementById('qresult');
+
+  // Recommendation catalog
+  var REC = {
+    silentmammoth: {name:'Silent Mammoth', score:'7.2', href:'/silent-mammoth-review.html', why:'An invisible internal dilator you can wear day and night, with no adhesive. The top pick when you want it in all the time.'},
+    mute:          {name:'Mute (Rhinomed)', score:'6.5', href:'/mute-review.html', why:'A reusable internal dilator with no adhesive and three sizes. The budget-friendly way to get strong airflow.'},
+    vo2:           {name:'VO2 Pro', score:'6.9', href:'/vo2-pro-review.html', why:'A sport strip with sweat-rated medical adhesive built to stay put through hard training.'},
+    dream:         {name:'Dream Recovery Second Wind', score:'6.5', href:'/dream-recovery-review.html', why:'A gentle, hypoallergenic dilator built for sensitive skin and sweat, with a stronger open than a flat strip.'},
+    breatheright:  {name:'Breathe Right Extra Strength', score:'6.5', href:'/breathe-right-review.html', why:'The cheapest, easiest way to test whether opening your nose helps. The right first try.'},
+    intake:        {name:'Intake Breathing', score:'6.3', href:'/intake-breathing-review.html', why:'A magnetic external dilator that opens the nose more than any strip we tested. Great for nightly use.'}
+  };
+
+  function pick(){
+    var g = answers.goal, s = answers.skin, w = answers.when;
+    if (s === 'nothing' || w === 'allday') return (s==='nothing' && w!=='allday') ? REC.mute : REC.silentmammoth;
+    if (g === 'train') return REC.vo2;
+    if (s === 'sensitive') return REC.dream;
+    if (w === 'occasional' || g === 'congestion') return REC.breatheright;
+    return REC.intake; // snore/sleep, fine with adhesive, nightly
+  }
+
+  function show(n){
+    qs.forEach(function(q){ q.classList.toggle('active', q.getAttribute('data-q')===String(n)); });
+    bar.style.width = (n===4?100:(n*33)) + '%';
+    if (n===4){
+      var r = pick();
+      document.getElementById('recname').textContent = r.name;
+      document.getElementById('recscore').textContent = r.score;
+      document.getElementById('recwhy').textContent = r.why;
+      document.getElementById('reclink').setAttribute('href', r.href);
+      result.classList.add('show');
+    } else { result.classList.remove('show'); }
+  }
+
+  document.querySelectorAll('.quiz .opt').forEach(function(btn){
+    btn.addEventListener('click', function(){
+      answers[btn.getAttribute('data-key')] = btn.getAttribute('data-val');
+      var cur = parseInt(btn.closest('.q').getAttribute('data-q'),10);
+      show(cur+1);
+    });
+  });
+  var restart = document.getElementById('qrestart');
+  if (restart) restart.addEventListener('click', function(){ answers={}; show(1); });
+
+  // ===== Email capture (AJAX, graceful if endpoint not yet set) =====
+  var form = document.getElementById('capform');
+  var msg = document.getElementById('capmsg');
+  if (form) form.addEventListener('submit', function(e){
+    e.preventDefault();
+    var action = form.getAttribute('action');
+    if (action.indexOf('REPLACE_WITH_FORM_ID') !== -1){
+      msg.textContent = 'Almost there: the list isn’t connected yet. Check back soon.';
+      return;
+    }
+    var data = new FormData(form);
+    msg.textContent = 'Sending...';
+    fetch(action, {method:'POST', body:data, headers:{'Accept':'application/json'}})
+      .then(function(r){ msg.textContent = r.ok ? 'You’re in. Check your inbox for the cheat sheet.' : 'Hmm, that didn’t go through. Try again?'; if(r.ok) form.reset(); })
+      .catch(function(){ msg.textContent = 'Network hiccup. Try again in a moment.'; });
+  });
+})();
+</script>
 
 </body>
 </html>
